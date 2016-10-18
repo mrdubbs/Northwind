@@ -1,2 +1,2 @@
 # Northwind
-Recreated Northwind database (SQL)
+Recreated Northwind database using C++ and SQL
