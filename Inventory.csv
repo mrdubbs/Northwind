@@ -1,0 +1,46 @@
+Product Name,Qty On Hand,Qty On Hold,Qty Available,Qty On Order,Current Level,Target Level,Qty To Reorder
+Northwind Traders Chai,25,25,0,41,41,40,0
+Northwind Traders Syrup,50,0,50,50,100,100,0
+Northwind Traders Cajun Seasoning,0,0,0,40,40,40,0
+Northwind Traders Olive Oil,15,0,15,0,15,40,25
+Northwind Traders Boysenberry Spread,0,0,0,10,10,100,90
+Northwind Traders Dried Pears,0,0,0,0,0,40,40
+Northwind Traders Curry Sauce,0,0,0,0,0,40,40
+Northwind Traders Walnuts,40,0,40,0,40,40,0
+Northwind Traders Fruit Cocktail,0,0,0,0,0,40,40
+Northwind Traders Chocolate Biscuits Mix,0,0,0,20,20,20,0
+Northwind Traders Marmalade,0,0,0,40,40,40,0
+Northwind Traders Scones,0,0,0,0,0,20,20
+Northwind Traders Beer,23,23,0,0,0,60,60
+Northwind Traders Crab Meat,0,0,0,120,120,120,0
+Northwind Traders Clam Chowder,0,0,0,0,0,40,40
+Northwind Traders Coffee,325,325,0,300,300,100,0
+Northwind Traders Chocolate,0,0,0,0,0,100,100
+Northwind Traders Dried Apples,0,0,0,40,40,40,0
+Northwind Traders Long Grain Rice,60,0,60,0,60,100,40
+Northwind Traders Gnocchi,120,110,10,0,10,120,110
+Northwind Traders Ravioli,80,0,80,0,80,80,0
+Northwind Traders Hot Pepper Sauce,40,0,40,0,40,40,0
+Northwind Traders Tomato Sauce,80,0,80,0,80,80,0
+Northwind Traders Mozzarella,0,0,0,40,40,40,0
+Northwind Traders Almonds,0,0,0,0,0,20,20
+Northwind Traders Mustard,60,0,60,0,60,60,0
+Northwind Traders Dried Plums,20,20,0,0,0,75,75
+Northwind Traders Green Tea,125,75,50,0,50,125,75
+Northwind Traders Granola,0,0,0,0,0,100,100
+Northwind Traders Potato Chips,0,0,0,0,0,200,200
+Northwind Traders Brownie Mix,0,0,0,10,10,20,10
+Northwind Traders Cake Mix,0,0,0,0,0,20,20
+Northwind Traders Tea,0,0,0,0,0,50,50
+Northwind Traders Pears,0,0,0,0,0,40,40
+Northwind Traders Peaches,0,0,0,0,0,40,40
+Northwind Traders Pineapple,0,0,0,0,0,40,40
+Northwind Traders Cherry Pie Filling,0,0,0,0,0,40,40
+Northwind Traders Green Beans,0,0,0,0,0,40,40
+Northwind Traders Corn,0,0,0,0,0,40,40
+Northwind Traders Peas,0,0,0,0,0,40,40
+Northwind Traders Tuna Fish,0,0,0,0,0,50,50
+Northwind Traders Smoked Salmon,0,0,0,0,0,50,50
+Northwind Traders Hot Cereal,0,0,0,0,0,200,200
+Northwind Traders Vegetable Soup,0,0,0,0,0,200,200
+Northwind Traders Chicken Soup,0,0,0,0,0,200,200

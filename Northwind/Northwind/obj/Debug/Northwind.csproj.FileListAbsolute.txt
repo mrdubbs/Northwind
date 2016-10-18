@@ -1,0 +1,15 @@
+c:\users\slhscs030\documents\visual studio 2013\Projects\Northwind\Northwind\bin\Debug\Northwind.exe.config
+C:\Users\slhscs030\Documents\Visual Studio 2013\Projects\Northwind\Northwind\bin\Debug\Northwind.exe
+C:\Users\slhscs030\Documents\Visual Studio 2013\Projects\Northwind\Northwind\bin\Debug\Northwind.pdb
+C:\Users\slhscs030\Documents\Visual Studio 2013\Projects\Northwind\Northwind\obj\Debug\Northwind.csprojResolveAssemblyReference.cache
+C:\Users\slhscs030\Documents\Visual Studio 2013\Projects\Northwind\Northwind\obj\Debug\Northwind.Form1.resources
+C:\Users\slhscs030\Documents\Visual Studio 2013\Projects\Northwind\Northwind\obj\Debug\Northwind.Properties.Resources.resources
+C:\Users\slhscs030\Documents\Visual Studio 2013\Projects\Northwind\Northwind\obj\Debug\Northwind.csproj.GenerateResource.Cache
+C:\Users\slhscs030\Documents\Visual Studio 2013\Projects\Northwind\Northwind\obj\Debug\Northwind.exe
+C:\Users\slhscs030\Documents\Visual Studio 2013\Projects\Northwind\Northwind\obj\Debug\Northwind.pdb
+C:\Users\slhscs030\documents\visual studio 2013\Projects\Northwind\Northwind\obj\Debug\Northwind.Form2.resources
+C:\Users\slhscs030\documents\visual studio 2013\Projects\Northwind\Northwind\obj\Debug\Northwind.Form3.resources
+C:\Users\slhscs030\documents\visual studio 2013\Projects\Northwind\Northwind\obj\Debug\Northwind.Form4.resources
+C:\Users\slhscs030\documents\visual studio 2013\Projects\Northwind\Northwind\obj\Debug\Northwind.Form5.resources
+C:\Users\slhscs030\documents\visual studio 2013\Projects\Northwind\Northwind\obj\Debug\Northwind.Form6.resources
+C:\Users\slhscs030\documents\visual studio 2013\Projects\Northwind\Northwind\obj\Debug\Northwind.Form7.resources

@@ -1,0 +1,10 @@
+cboReports,First Name,ID,Last Name,E-mail Address,Business Phone,Company,Job Title,Home Phone,Mobile Phone,Fax Number,Address,City,State/Province,ZIP/Postal Code,Country/Region,Notes
+,Andrew,2,Cencini,andrew@northwindtraders.com,(123)555-0100,Northwind Traders,"Vice President, Sales",(123)555-0102,,(123)555-0103,123 2nd Avenue,Bellevue,WA,99999,USA,"Joined the company as a sales representative, was promoted to sales manager and was then named vice president of sales."
+,Nancy,1,Freehafer,nancy@northwindtraders.com,(123)555-0100,Northwind Traders,Sales Representative,(123)555-0102,,(123)555-0103,123 1st Avenue,Seattle,WA,99999,USA,
+,Laura,8,Giussani,laura@northwindtraders.com,(123)555-0100,Northwind Traders,Sales Coordinator,(123)555-0102,,(123)555-0103,123 8th Avenue,Redmond,WA,99999,USA,Reads and writes French.
+,Anne,9,Hellung-Larsen,anne@northwindtraders.com,(123)555-0100,Northwind Traders,Sales Representative,(123)555-0102,,(123)555-0103,123 9th Avenue,Seattle,WA,99999,USA,Fluent in French and German.
+,Jan,3,Kotas,jan@northwindtraders.com,(123)555-0100,Northwind Traders,Sales Representative,(123)555-0102,,(123)555-0103,123 3rd Avenue,Redmond,WA,99999,USA,Was hired as a sales associate and was promoted to sales representative.
+,Michael,6,Neipper,michael@northwindtraders.com,(123)555-0100,Northwind Traders,Sales Representative,(123)555-0102,,(123)555-0103,123 6th Avenue,Redmond,WA,99999,USA,"Fluent in Japanese and can read and write French, Portuguese, and Spanish."
+,Mariya,4,Sergienko,mariya@northwindtraders.com,(123)555-0100,Northwind Traders,Sales Representative,(123)555-0102,,(123)555-0103,123 4th Avenue,Kirkland,WA,99999,USA,
+,Steven,5,Thorpe,steven@northwindtraders.com,(123)555-0100,Northwind Traders,Sales Manager,(123)555-0102,,(123)555-0103,123 5th Avenue,Seattle,WA,99999,USA,Joined the company as a sales representative and was promoted to sales manager.  Fluent in French.
+,Robert,7,Zare,robert@northwindtraders.com,(123)555-0100,Northwind Traders,Sales Representative,(123)555-0102,,(123)555-0103,123 7th Avenue,Seattle,WA,99999,USA,

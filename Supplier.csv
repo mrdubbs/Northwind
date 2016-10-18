@@ -1,0 +1,11 @@
+Company,ID,First Name,Last Name,E-mail Address,Business Phone,Job Title,Notes,Home Phone,Mobile Phone,Fax Number,Address,ZIP/Postal Code,State/Province,City,Country/Region
+Supplier A,1,Elizabeth A.,Andersen,anderson@gmail.com,450 565 3248,Sales Manager,He is a sales manager,450 565 3248,450 565 3248,450 565 3248,454 Cool Runnings Street,85334,Colorado,Denver,USA
+Supplier H,8,Bryn Paul,Dunton,dunton@gmail.com,438 566 4454,Sales Representative,He is a sales representative,438 566 4454,438 566 4454,438 566 4454,5654 Bayvale Drive,87364,Illinois,Chicago,USA
+Supplier G,7,Stuart,Glasson,glasson@hotmail.com,348 454 3939,Marketing Manager,He is a marketing manager,348 454 3939,348 454 3939,348 454 3939,67 Atlings Street,23436,Alaska,Anchorage,USA
+Supplier F,6,Satomi,Hayakawa,hayakawa@yahoo.com,666 560 5904,Marketing Assistant,He is a marketing assistant,666 560 5904,666 560 5904,666 560 5904,564 Witchwood Street,76556,Georgia,Atlanta,USA
+Supplier E,5,Amaya,Hernandez-Echevarria,amaya@hotmail.com,290 990 3242,Sales Manager,He is a sales manager,290 990 3242,290 990 3242,290 990 3242,9013 Trailstone Lane,5444 34,N/A,Constantinople,Turkey
+Supplier C,3,Madeleine,Kelley,kelleymik@bing.org,234 797 5565,Sales Representative,He is a sales representative,234 797 5565,234 797 5565,234 797 5565,790 Jobbling Court,43533,N/A,Marseille,France
+Supplier I,9,Mikael,Sandberg,sandbergmmik@yahoo.com,457 222 7765,Sales Manager,He is a sales manager,457 222 7765,457 222 7765,457 222 7765,4934 Bobby Lane,34358 345,N/A,Munich,Germany
+Supplier D,4,Naoki,Sato,statonoki@aol.com,686 567 7765,Marketing Manager,He is a marketing manager,686 567 7765,686 567 7765,686 567 7765,2304 July Street,5645666,N/A,Nagasaki,Japan
+Supplier J,10,Luis,Sousa,sousa@grays.com,234 234 5675,Sales Manager,He is a sales manager,234 234 5675,234 234 5675,234 234 5675,1230 June Street,32423,N/A,Dortmund,Germany
+Supplier B,2,Cornelia,Weiler,weilerinc@yahoo.com,234 333 2342,Sales Manager,He is a sales manager,234 333 2342,234 333 2342,234 333 2342,960 Tambling Drive,23423,N/A,Istanbul,Turkey
